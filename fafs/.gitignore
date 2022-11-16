@@ -1,0 +1,6 @@
+*.pyc
+*~
+/*.sh
+data
+output
+caffe
